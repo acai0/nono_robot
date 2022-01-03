@@ -3,9 +3,12 @@ canvas{
     height:600;
 }
 .button {
-    width: 200px;
-    border: 2px solid green;
+    width: 10%;
     text-align: center;
+    border:white;
     text-decoration: none;
     display: inline;
+}
+img{
+    width:10%;
 }
