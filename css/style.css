@@ -1,0 +1,11 @@
+canvas{
+    width:500;
+    height:600;
+}
+.button {
+    width: 200px;
+    border: 2px solid green;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+}
